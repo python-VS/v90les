@@ -1,1 +1,4 @@
-print(346 // 10
+a='hahaha'
+print(f"ggg:{a}")
+
+

@@ -26,3 +26,4 @@ elif symbol == '//':
     print('Результат: ' + str(result))
 else:
     print('Невозможно выполнить операцию!')
+    
